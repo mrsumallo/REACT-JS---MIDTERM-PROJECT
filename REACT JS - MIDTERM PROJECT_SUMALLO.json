@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Samsung Galaxy 15F",
+      "brand": "Samsung",
+      "category": "Phones",
+      "price": "990",
+      "createdAt": "2023-03-07"
+    },
+    {
+      "id": "2",
+      "name": "Nokia X300",
+      "brand": "Nokia",
+      "category": "Phones",
+      "price": "211",
+      "createdAt": "2023-03-07"
+    },
+    {
+      "id": "4cbf",
+      "name": "vivoy15s",
+      "brand": "vivo",
+      "category": "smartphone",
+      "price": "8000",
+      "createdAt": "2025-04-09"
+    }
+  ]
+}
